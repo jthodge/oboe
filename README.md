@@ -2,7 +2,7 @@
 
 oboe is an implementation of a strong version of the "off-by-one" programming language described by Randall Munroe in [xkcd #3602](https://xkcd.com/3062/):
 
-![image](https://gist.github.com/user-attachments/assets/bf9106e9-184a-4e60-bd01-c8c6bfe957a6)
+![xkcd #3602](https://github.com/user-attachments/assets/5f0ebe84-caf8-43bb-a54a-3a2754f34a03)
 
 > "_Any time an integer is stored or read, its value is adjusted upward or downward by a random amount between 40 and 50._"
 
