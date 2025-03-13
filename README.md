@@ -1,6 +1,6 @@
 # oboe
 
-oboe is an implementation of a strong version of the "off-by-one" programming language described by Randall Munroe in [xkcd #3602](https://xkcd.com/3062/):
+oboe is an implementation of a strong version of the "off-by-one" programming language described by Randall Munroe in [xkcd #3062](https://xkcd.com/3062/):
 
 ![xkcd #3602](https://github.com/user-attachments/assets/5f0ebe84-caf8-43bb-a54a-3a2754f34a03)
 
